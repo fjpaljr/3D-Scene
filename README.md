@@ -2,6 +2,7 @@
 Together, these files showcase my work in computational graphics and visualization. They demonstrate my ability to create a fully realized 3D world with a specific understanding of the development process.
 
 1. How do I approach designing software?
+   
     a. What new design skills has your work on the project helped you craft?
     I learned to break a big object into basic shapes before writing any code. I also learned to plan sizes and heights ahead so the pieces line up and stack correctly.
     Loops and tables handle the repeated parts like the columns and trees to minimalize redundant code.
@@ -14,6 +15,7 @@ Together, these files showcase my work in computational graphics and visualizati
     I think the biggest takeaway tactically from my design approach is to take a large problem and break it down in to smaller components that I can complete one at a time.
 
 3. How do I approach developing programs?
+   
     a. What new development strategies did you use while working on your 3D scene?
     I built in small steps and tested after every step. I used sine and cosine in loops to place objects in a circle. I also split setup work into helper methods like LoadSceneTextures() and DefineObjectMaterials().
 
@@ -24,7 +26,8 @@ Together, these files showcase my work in computational graphics and visualizati
     c. How has your approach to developing code evolved throughout the milestones, which led you to the project's completion?
     Early on I wrote one shape at a time with raw numbers. Later I added consistent comments helper methods and loops. By the end I tested often and found the cause of a problem before changing code.
 
-4. How can computer science help me in reaching my goals?
+5. How can computer science help me in reaching my goals?
+   
     a. How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
     They gave me real practice with C++ and debugging. They also showed me how vectors and transformations are used in real programs. They are a base for what I want to learn next like shadows and custom shaders.
 
